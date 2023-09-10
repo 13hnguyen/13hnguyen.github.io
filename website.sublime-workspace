@@ -1,0 +1,672 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isHalfFuncAndMultipleOfNumberIwant"
+			],
+			[
+				"isM",
+				"isMultipleOfNumberIwant"
+			],
+			[
+				"fl",
+				"inputtableFlat"
+			],
+			[
+				"isEv",
+				"isEvenMultipleOf7"
+			],
+			[
+				"isO",
+				"isOddMultipleOf5"
+			],
+			[
+				"in",
+				"inputtable"
+			],
+			[
+				"conc",
+				"concatenateArray"
+			],
+			[
+				"cylind",
+				"cylinderVolumeOfRadius5"
+			],
+			[
+				"xcart_",
+				"xcart_manufacturers"
+			],
+			[
+				"getUn",
+				"getUnshippedOrderItems"
+			],
+			[
+				"getOrder",
+				"getOrderDetails"
+			],
+			[
+				"temp",
+				"tempOrderDetails"
+			],
+			[
+				"aOr",
+				"output_add_rewrite_var()"
+			],
+			[
+				"sqlGet",
+				"sqlGetCachedQOH"
+			],
+			[
+				"fe",
+				"fetch_row"
+			],
+			[
+				"fetch",
+				"fetch_assoc"
+			],
+			[
+				"INVE",
+				"INVENTORY_REPORT_FILE_PATH"
+			],
+			[
+				"json",
+				"json_encode()"
+			],
+			[
+				"pos",
+				"postData"
+			],
+			[
+				"post",
+				"postData"
+			],
+			[
+				"amazon",
+				"amazon_sync_qoh_only"
+			],
+			[
+				"list",
+				"listItemsSellerChamp"
+			],
+			[
+				"lis",
+				"listItemsSellerChamp"
+			],
+			[
+				"unass",
+				"unassigned-list"
+			],
+			[
+				"col",
+				"collectionids"
+			],
+			[
+				"get",
+				"getAssignedStyles"
+			],
+			[
+				"old_",
+				"old_products"
+			],
+			[
+				"el",
+				"elseif"
+			],
+			[
+				"default",
+				"default_fields"
+			],
+			[
+				"has",
+				"hasEmbroidery"
+			],
+			[
+				"mem",
+				"membershipGraphic"
+			],
+			[
+				"extra",
+				"extra_field"
+			],
+			[
+				"order",
+				"order_item"
+			],
+			[
+				"ac",
+				"active_modules"
+			],
+			[
+				"b",
+				"base64_decode()"
+			],
+			[
+				"getWE",
+				"getWeight"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"calss",
+				"classid"
+			],
+			[
+				"cust",
+				"custom_value"
+			],
+			[
+				"prod",
+				"product_options"
+			],
+			[
+				"custom",
+				"customization"
+			],
+			[
+				"ser",
+				"serialized_cart"
+			],
+			[
+				"print_r",
+				"print_r()"
+			],
+			[
+				"fi",
+				"fields_orig"
+			],
+			[
+				"chec",
+				"checkout_module"
+			],
+			[
+				"Gift",
+				"Gift_Certificates"
+			],
+			[
+				"vouch",
+				"vouchers_cost"
+			],
+			[
+				"_apply",
+				"_applyVoucher"
+			],
+			[
+				"ver",
+				"verifiedItem"
+			],
+			[
+				"button_",
+				"button_href"
+			],
+			[
+				"total_",
+				"total_nav_pages"
+			],
+			[
+				"total",
+				"total_items"
+			],
+			[
+				"pop",
+				"popu"
+			],
+			[
+				"est",
+				"establishment_admin"
+			],
+			[
+				"Est_Id",
+				"Est_Id"
+			],
+			[
+				"mysqli",
+				"mysqli_connect"
+			],
+			[
+				"comm",
+				"commentBlock"
+			],
+			[
+				"div",
+				"divisibleBySeven"
+			],
+			[
+				"divBy",
+				"divByFiveAndOdd"
+			],
+			[
+				"inpu",
+				"inputtable2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "website.sublime-project",
+			"settings":
+			{
+				"buffer_size": 46,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.markdown",
+			"settings":
+			{
+				"buffer_size": 175,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: css",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"liq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"smarty",
+				"Set Syntax: Smarty"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+			"reload",
+			"i",
+			"y",
+			"et",
+			"p",
+			"a",
+			"c",
+			"a",
+			"r",
+			"e",
+			"s",
+			"a",
+			"q",
+			"dadw",
+			"cd",
+			"pwd",
+			"help",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/nguye/Documents/13hnguyen.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/nguye/Documents/13hnguyen.github.io/_config.yml",
+		"/C/Users/nguye/Downloads/lab1a.out",
+		"/C/Users/nguye/Downloads/lab1a.dat",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/demo/bin/gdexample.gdextension",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/src/gdexample.cpp",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/src/gdexample.h",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/src/register_types.h",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/src/register_types.cpp",
+		"/C/Users/nguye/Documents/Resumer/Cover_Video_games/Hadrien_Nguyen_Cover_Letter.txt",
+		"/C/Users/nguye/Documents/Resumer/Cover_Video_games/Hadrien_Nguyen_Portfolio.txt",
+		"/C/Users/nguye/Documents/13hnguyen.github.io/index.html",
+		"/C/Users/nguye/Documents/13hnguyen.github.io/Gemfile",
+		"/C/Users/nguye/Documents/13hnguyen.github.io/Gemfile.lock",
+		"/C/Users/nguye/Desktop/input.txt",
+		"/C/Users/nguye/Desktop/gsa_pw (2020_09_27 21_41_40 UTC).txt",
+		"/C/Users/nguye/Desktop/invoice.sql",
+		"/C/Users/nguye/Desktop/hady 10-05-2021.txt",
+		"/C/Users/nguye/Desktop/lab01-hxn6184.js",
+		"/C/Users/nguye/Desktop/UTSI.txt",
+		"/C/Users/nguye/Desktop/embroidery.sql",
+		"/C/Users/nguye/Desktop/2020_09_23 21_41_40 UTC).txt",
+		"/C/Users/nguye/Desktop/Checkout -.txt",
+		"/C/Users/nguye/Desktop/voucher_2.sql",
+		"/C/Users/nguye/Desktop/voucher.sql",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/SConstruct",
+		"/C/Users/nguye/Documents/Thesis/SketchAnimation/python/model.py",
+		"/C/Users/nguye/Documents/Thesis/SketchAnimation/Web/index.html",
+		"/C/Users/nguye/Downloads/programmer_test.txt",
+		"/C/Users/nguye/AppData/Local/Temp/Tempd5660744-7e63-4e2b-bfb4-9ddb1285874b_eigen-3.4.0.zip/eigen-3.4.0/Eigen/Dense",
+		"/C/Users/nguye/AppData/Roaming/PrismLauncher/instances/The Lost Era Modpack/.minecraft/config/InvTweaksTree.txt",
+		"/C/Users/nguye/Documents/Thesis/SketchAnimation/FeatureDetection/csv/examples.txt",
+		"/C/Users/nguye/AppData/Local/Temp/Temp1_alglib-4.00.0.cpp.gpl.zip/alglib-cpp/manual.cpp.html",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/SketchAddon/bin/gdexample.gdextension",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/SketchAddon/bin/tf_tool.gdextension",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/SketchAddon/bin/libgdexample.windows.template_debug.x86_64.dll",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/sketch_addon.sublime-project",
+		"/C/Users/nguye/Downloads/libtensorflow-cpu-windows-x86_64-2.13.0/LICENSE",
+		"/C/Program Files/Git/mingw64/share/doc/git-doc/git-submodule.html",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/src/tf_tool.cpp",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/src/tf_tool.h",
+		"/C/Users/nguye/scoop/apps/mingw/current/include/ctf-api.h",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/godot-cpp/SConstruct",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/include/tensorflow/core/platform/ctstring.h",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/include/tensorflow/c/c_api.h",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/include/tensorflow/c/tf_status.h",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/include/tensorflow/c/eager/c_api.h",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/src/example.cpp",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/src/example.h",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/godot-cpp/include/godot_cpp/classes/ref.hpp",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/godot-cpp/include/godot_cpp/godot.hpp",
+		"/C/Users/nguye/AppData/Local/Temp/Temp1_1002017484_Assignment5.zip/readme.txt",
+		"/C/Users/nguye/Documents/AdventureJam23/Game/adventurejam23/Scenes/Chapter 1/scripts/Scene2.gd",
+		"/C/Users/nguye/Documents/gmtk23/.gitignore",
+		"/C/Users/nguye/Downloads/controller.tscn",
+		"/C/Users/nguye/Documents/gmtk23/Game/Autoload/scripts/AttackSingleton.gd",
+		"/C/Users/nguye/Documents/gmtk23/Entity/Player/Player.tscn",
+		"/C/Users/nguye/Documents/gmtk23/Entity/Fighter/scripts/Fighter.gd",
+		"/C/Users/nguye/Downloads/FitCurves.c",
+		"/C/Users/nguye/Documents/project_cherubim/Game/Environment/level1.tscn",
+		"/C/Users/nguye/Documents/project_cherubim/Game/Environment/test_world.tscn",
+		"/C/Users/nguye/Documents/project_cherubim/Game/Entities/Player/player.tscn",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/godot-cpp/tools/targets.py",
+		"/C/Users/nguye/Downloads/desmume-0.9.13-win64/desmume.ini",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/godot-cpp/tools/windows.py",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/godot-cpp/Makefile",
+		"/C/Users/nguye/Documents/Thesis/SketchAddon/godot-cpp/CMakeLists.txt",
+		"/C/Users/nguye/Documents/project_cherubim/Game/Environment/Level_1/level_1_scene.tscn",
+		"/C/Users/nguye/Documents/project_cherubim/Game/Entities/_DEPRECATED_HumanNPC/dummy.tscn",
+		"/C/Users/nguye/Documents/project_cherubim/Game/Environment/ExampleWorld/example_world.tscn",
+		"/C/Users/nguye/Documents/project_cherubim/Game/Entities/_DEPRECATED_Characters/Player/player.tscn",
+		"/C/Users/nguye/Downloads/paperjs-v0.12.17/docs/classes/PathItem.html",
+		"/C/Users/nguye/Documents/gmtk23/Entity/Fighter/Fighter1.tscn",
+		"/C/Users/nguye/Documents/gmtk23/Entity/Fighter/FakeFighter.tscn",
+		"/C/Users/nguye/Downloads/cad/composite_evo/ref.sh",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/nguye/Documents/godot-demo-projects/2d/navigation/level.tscn",
+		"/C/Users/nguye/Documents/AdventureJam23/Game/adventurejam23/Scenes/Chapter 1/Scene1.tscn",
+		"/C/Users/nguye/Documents/AdventureJam23/Game/adventurejam23/Scenes/Chapter 2/Scene2.tscn",
+		"/C/Users/nguye/Documents/AdventureJam23/Game/adventurejam23/Scenes/blank_box.tscn",
+		"/C/Users/nguye/Documents/AdventureJam23/Game/adventurejam23/Scenes/Chapter 1/Scene2.tscn",
+		"/C/Users/nguye/Documents/AdventureJam23/Game/adventurejam23/Assets/Font/dacherry/More Info.txt",
+		"/C/Users/nguye/Documents/AdventureJam23/Game/adventurejam23/Assets/Scenes/testscene.tscn",
+		"/C/Users/nguye/Documents/rust-vulkan/vulkan_tutorial/src/main.rs",
+		"/C/Users/nguye/AppData/Local/Temp/Temp1_assignment5.zip/assignment5/q4.txt",
+		"/C/Users/nguye/AppData/Local/Temp/Temp1_assignment5.zip/assignment5/q3.txt",
+		"/C/Users/nguye/AppData/Local/Temp/Temp1_assignment5.zip/assignment5/q2.txt",
+		"/C/Users/nguye/AppData/Local/Temp/Temp1_assignment5.zip/assignment5/Q1/q1sol.out.txt",
+		"/C/Users/nguye/Downloads/lab3agame/README.txt",
+		"/C/Users/nguye/Documents/rust-vulkan/vulkan_tutorial/Cargo.toml",
+		"/C/Users/nguye/Documents/motioncanvas/mymotionvideos/src/scenes/example.tsx",
+		"/C/Users/nguye/Downloads/lab3agame/classic.bas",
+		"/C/Users/nguye/Downloads/lab3agame/modern.bas",
+		"/C/Users/nguye/Documents/rust-vulkan/hello_match/src/lib.rs",
+		"/C/Users/nguye/Documents/rust-vulkan/hello_match/src/main.rs",
+		"/C/Users/nguye/Downloads/submissions_hw02/pairalaashwak_328615_25127900_HOME WORK 2 SPEC TOPICS/ASHWAKPAIRALA_ASSN2/ASHWAKPAIRALA_ASSN2/Question1/rockpaper.dat",
+		"/C/Users/nguye/AppData/Local/Temp/Temp1_1002091857_Ass2.zip/1002091857_Ass2/Ques2/driver.dat",
+		"/C/Users/nguye/AppData/Local/Temp/Temp1_1002091857_Ass2.zip/1002091857_Ass2/Ques1/rps.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/ponugotimanisha_295117_25126372_1002033098 Homework-2/task2/battleSexes.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/ponugotimanisha_295117_25126372_1002033098 Homework-2/task1/rpssl.dat",
+		"/C/Users/nguye/Documents/CSE 5307/lab03/hxn6184_LAB03/hxn6184_LAB03_EC.py",
+		"/C/Users/nguye/Downloads/submissions_hw02/mahandulemayuri_214121_25127806_homework2.3926/rock_paper_scissor.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/patibandlajyothibhavani_328563_25127695_Patibandla Jyothi Bhavani_STTA ASSIGNMENT2/Patibandla Jyothi Bhavani_STTA ASSIGNMENT2/q1/battleSexes.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/patibandlajyothibhavani_328563_25127695_Patibandla Jyothi Bhavani_STTA ASSIGNMENT2/Patibandla Jyothi Bhavani_STTA ASSIGNMENT2/q1/command.txt",
+		"/C/Users/nguye/Downloads/submissions_hw02/medipudisampathkumar_296735_25108362_HW2 by Sampath Kumar Medipudi/2nd Question Answer related Gambit  & Glpsol files/battleSexes.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/medipudisampathkumar_296735_25108362_HW2 by Sampath Kumar Medipudi/1st Question Answer related Glpsol files/rpssl.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/mahandulemayuri_214121_25127806_homework2.3926/q2.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/jakkavikithareddy_318178_25127250_5319-2/5319-2/Problem-1/rockpaper.dat",
+		"/C/Users/nguye/AppData/Local/Temp/Temp1_Homework 2.zip/Homework 2/Q1.mod",
+		"/C/Users/nguye/Downloads/submissions_hw02/gandhamsairohitkalyan_324088_25126521_HomeWork_2/HomeWork_2/Question_1/rock_paper_scissor.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/erukullagopalakrishnahemanth_268670_25127624_7378_HW2-1/7378_HW2/code/Q2_drivers.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/erukullagopalakrishnahemanth_268670_25127624_7378_HW2-1/7378_HW2/code/Q1_rockpssl.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/doddadheerajchowdary_272580_25127835_1001978904_Assignment2/1001978904_Assignment2/3rd Ans Code.txt",
+		"/C/Users/nguye/Downloads/submissions_hw02/datlapratheekreddy_275683_25127814_1001985693_Assignment2-1/1001985693_Assignment2/Solution 3 Code.txt",
+		"/C/Users/nguye/Downloads/submissions_hw02/bondalapativenkatasusanth_261741_25126033_5746_HW2/5746_HW2/Q2_drivers.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/bondalapativenkatasusanth_261741_25126033_5746_HW2/5746_HW2/Q1_rockpssl.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/bobdeharshith_330365_25126760_HW2/HW2/Q1/rps.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/batchujaivenkatasaisriram_273920_25127953_1001949158 HW2 (2)/1001949158 HW2/hw2q2.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/batchujaivenkatasaisriram_273920_25127953_1001949158 HW2 (2)/1001949158 HW2/hw2q1.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/bobdeharshith_330365_25126760_HW2/HW2/Q2/glpsol7.2.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/bethadeepika_297336_25126190_1002039457_AS2/1002039457_AS2/Task1/rpssl.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/ayyagarisainarayanashanmukh_321986_25126739_HW2/HW2/Problem_2/Problem2Gipsol.dat",
+		"/C/Users/nguye/Downloads/glpk-4.35/w64/files/rpssl.dat",
+		"/C/Users/nguye/Downloads/glpk-4.35/w64/files/hw2/hw02_02.dat",
+		"/C/Users/nguye/Documents/rust-vulkan/hello_cargo/Cargo.toml",
+		"/C/Users/nguye/Downloads/submissions_hw02/alchuriraviteja_271464_25125821_assignment2/assignment2/Q1/q1.dat",
+		"/C/Users/nguye/Downloads/submissions_hw02/alchuriraviteja_271464_25125821_assignment2/assignment2/Q1/q1_coarseCorrEq.txt",
+		"/C/Users/nguye/Documents/rust-vulkan/hello_cargo/src/main.rs",
+		"/C/Users/nguye/Downloads/glpk-4.35/w64/files/corrEq.mod"
+	],
+	"find":
+	{
+		"height": 22.4
+	},
+	"find_in_files":
+	{
+		"height": 430.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "website.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.markdown",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.4
+	},
+	"input":
+	{
+		"height": 146.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 41.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 276.0,
+		"last_filter": "as",
+		"selected_items":
+		[
+			[
+				"as",
+				"func_order_details_fields_as_labels"
+			],
+			[
+				"",
+				"func_refresh"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 427.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
